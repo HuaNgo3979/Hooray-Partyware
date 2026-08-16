@@ -10,9 +10,9 @@ Database Design and Development coursework project building a data system for **
 
 HP wants to digitalise its operations across its stores. This assignment delivers three connected pieces of work for that goal:
 
-1. **Data Modelling** — an Entity Relationship Diagram (ERD) and a normalised (3NF) Relational Model Diagram (RMD) for HP's database, covering customers, products, stores, suppliers, employees, and invoices.
-2. **SQL Scripts** — three working MySQL scripts that automate customer segmentation, invoice totals, and sales performance reporting.
-3. **Data Analytics with Orange** — a predictive modelling workflow (Orange Data Mining) that pre-processes, explores, and predicts customer `Spending Score` from the HP customer dataset, comparing Linear Regression, Random Forest, and k-NN.
+1. **Data Modelling:** an Entity Relationship Diagram (ERD) and a normalised (3NF) Relational Model Diagram (RMD) for HP's database, covering customers, products, stores, suppliers, employees, and invoices.
+2. **SQL Scripts:** three working MySQL scripts that automate customer segmentation, invoice totals, and sales performance reporting.
+3. **Data Analytics with Orange:** a predictive modelling workflow (Orange Data Mining) that pre-processes, explores, and predicts customer `Spending Score` from the HP customer dataset, comparing Linear Regression, Random Forest, and k-NN.
 
 Full written analysis, explanations, and screenshots are in the report (see [`docs/`](docs)).
 
