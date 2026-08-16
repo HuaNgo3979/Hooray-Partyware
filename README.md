@@ -14,7 +14,7 @@ HP wants to digitalise its operations across its stores. This assignment deliver
 2. **SQL Scripts:** three working MySQL scripts that automate customer segmentation, invoice totals, and sales performance reporting.
 3. **Data Analytics with Orange:** a predictive modelling workflow (Orange Data Mining) that pre-processes, explores, and predicts customer `Spending Score` from the HP customer dataset, comparing Linear Regression, Random Forest, and k-NN.
 
-Full written analysis, explanations, and screenshots are in the report (see [`docs/`](./docs).
+Full written analysis, explanations, and screenshots are in the report (see [`docs/`](Hooray-Partware/docs)).
 
 ---
 
