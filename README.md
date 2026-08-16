@@ -24,11 +24,10 @@ Full written analysis, explanations, and screenshots are in the report (see [`do
 HP-Database-Design-Assessment3/
 ├── README.md                     ← this file
 ├── docs/                         ← written report & submitted deliverables
-│   ├── ASM 3 - Database.docx             (full report: ERD, RMD, SQL, Orange analysis, references, appendices)
 │   ├── SQL Scripts.docx                  (SQL scripts as submitted, with line-by-line explanations)
 │   └── ASM3-...-s3863887.pdf             (final submitted PDF version of the report)
 ├── database-design/
-│   └── ASM 4 - ERD & Relation.drawio     (draw.io file — 2 pages: ERD + Relational Model Diagram)
+│   └── ASM 4 - ERD & Relation.drawio     (draw.io file - 2 pages: ERD + Relational Model Diagram)
 ├── sql/
 │   └── hp_sql_scripts.sql                (clean, runnable MySQL script — all 3 SQL tasks, extracted & tidied from docs/SQL Scripts.docx)
 ├── data-analytics/
