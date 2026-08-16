@@ -27,16 +27,16 @@ HP-Database-Design-Assessment3/
 │   ├── SQL Scripts.docx                  (SQL scripts as submitted, with line-by-line explanations)
 │   └── ASM3-...-s3863887.pdf             (final submitted PDF version of the report)
 ├── database-design/
-│   └── ASM 4 - ERD & Relation.drawio     (draw.io file - 2 pages: ERD + Relational Model Diagram)
+│   └── ASM 3 - ERD & Relation.drawio     (draw.io file - 2 pages: ERD + Relational Model Diagram)
 ├── sql/
 │   └── hp_sql_scripts.sql                (clean, runnable MySQL script — all 3 SQL tasks, extracted & tidied from docs/SQL Scripts.docx)
 ├── data-analytics/
 │   ├── ASM3-...-s3863887.ows             (Orange Data Mining workflow file — open with Orange3)
 │   ├── ASM3-...-s3863887.xlsx            (working data extract used in Orange)
-│   ├── HPCustomers.xlsx                  (raw HP customer dataset, 1000 records)
+│   ├── HPCustomers.xlsx                  (raw HP customer dataset, 1000 records, request for dataset)
 │   └── HPDataset-header-description.txt  (data dictionary for HPCustomers.xlsx)
 └── media/
-    └── ASM3-...-s3863887.mp4             (video walkthrough / demonstration of the assignment)
+    └── video.md                          (video walkthrough / demonstration of the assignment)
 ```
 
 > Original filenames (containing the student ID `s3863887`) were kept as-is for traceability to the original submission.
@@ -101,7 +101,7 @@ Uses [`Orange Data Mining`](https://orangedatamining.com/) (open `*.ows` with Or
 ---
 ## 6. Video (Click [`./media`](HP-Database-Design-Assessment3/media) to see video)
 
-The [`video`](HP-Database-Design-Assessment3/media/) covers two discussion questions from the assignment:
+The [`video`](HP-Database-Design-Assessment3/media/video.md) covers two discussion questions from the assignment:
 
 - **Database Administration:** two potential impacts on HP if its data is not properly protected, each paired with a recommended DBMS security feature to mitigate it.
 - **Big Data & Analytics:** two big data/analytics applications HP could adopt, and the business benefits each would deliver.
