@@ -86,9 +86,9 @@ Uses [Orange Data Mining](https://orangedatamining.com/) (open `*.ows` with Oran
 
 **Workflow:**
 
-1. **Pre-processing** — `Impute` widget: numeric fields (Age, Annual Income) filled with the mean; categorical fields (Married, Subscription, Satisfaction, Frequency) filled with the mode; rows missing the target `Spending Score` were dropped → 989 clean rows.
-2. **Exploratory analysis** — box plots and distribution plots revealed a right-skew in Age/Annual Income (younger, low-to-middle income customers dominate) and a uniform spread in Spending Score, with a dispersion of 0.56.
-3. **Predictive modelling** — three models trained to predict `Spending Score`:
+1. **Pre-processing:** `Impute` widget: numeric fields (Age, Annual Income) filled with the mean; categorical fields (Married, Subscription, Satisfaction, Frequency) filled with the mode; rows missing the target `Spending Score` were dropped → 989 clean rows.
+2. **Exploratory analysis:** box plots and distribution plots revealed a right-skew in Age/Annual Income (younger, low-to-middle income customers dominate) and a uniform spread in Spending Score, with a dispersion of 0.56.
+3. **Predictive modelling:** three models trained to predict `Spending Score`:
 
    | Model | R² | RMSE | Verdict |
    |---|---|---|---|
