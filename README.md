@@ -62,7 +62,7 @@ Plus three **associative entities** resolving many-to-many relationships:
 - **Inventory:** stock levels per store (Product × Store).
 - **Responsibility:** staff rostering (Employee × Store).
 
-The Relational Model Diagram (RMD) normalises this design to **Third Normal Form (3NF)**, with primary/foreign keys enforcing referential integrity across all tables. Full attribute lists, cardinalities, and business rules/assumptions are documented in `docs/ASM 3 - Database.docx` (Tables 1–3 and Appendices 1–2).
+The Relational Model Diagram (RMD) normalises this design to **Third Normal Form (3NF)**, with primary/foreign keys enforcing referential integrity across all tables. Full attribute lists, cardinalities, and business rules/assumptions are documented in [docs/ASM 3 - Database.docx](HP-Database-Design-Assessment3/docs) (Tables 1–3 and Appendices 1-2).
 
 ---
 
