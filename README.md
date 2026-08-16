@@ -76,7 +76,7 @@ Three MySQL scripts, consolidated into 2 version ([docx](HP-Database-Design-Asse
 | 2 | **Auto-calculate Invoice Total Amount** | Trigger | Automatically recalculates `Invoice.Total_Amount` whenever a new line item is inserted into `InvoiceDetail`. |
 | 3 | **Aggregated Sales Performance Report** | Stored function + aggregation | Reports total quantity/revenue sold per product by month/quarter/year, and labels each as `Best Seller` / `Average` / `Low Sales` via `get_sales_performance()`. |
 
-Business rationale, line-by-line explanations, and tested output tables for each script are in `docs/SQL Scripts.docx` and Section 2 of the main report.
+Business rationale, line-by-line explanations, and tested output tables for each script are in [`docs/`](HP-Database-Design-Assessment3/docs) and Section 2 of the main report.
 
 ---
 
