@@ -45,7 +45,7 @@ HP-Database-Design-Assessment3/
 
 ## 3. Data Modelling (Click [`./database-design`](HP-Database-Design-Assessment3/database-design) to see ERD/RMD)
 
-The ERD/RMD (open with [draw.io](https://www.drawio.com/) or the [draw.io VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)) models HP's core business entities:
+The ERD/RMD (open with [`draw.io`](https://www.drawio.com/) or the [`draw.io VS Code extension`](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)) models HP's core business entities:
 
 | Entity | Purpose |
 |---|---|
@@ -62,13 +62,13 @@ Plus three **associative entities** resolving many-to-many relationships:
 - **Inventory:** stock levels per store (Product × Store).
 - **Responsibility:** staff rostering (Employee × Store).
 
-The Relational Model Diagram (RMD) normalises this design to **Third Normal Form (3NF)**, with primary/foreign keys enforcing referential integrity across all tables. Full attribute lists, cardinalities, and business rules/assumptions are documented in [docs/ASM 3 - Database.docx](HP-Database-Design-Assessment3/docs) (Tables 1–3 and Appendices 1-2).
+The Relational Model Diagram (RMD) normalises this design to **Third Normal Form (3NF)**, with primary/foreign keys enforcing referential integrity across all tables. Full attribute lists, cardinalities, and business rules/assumptions are documented in [`docs/ASM 3 - Database.docx`](HP-Database-Design-Assessment3/docs) (Tables 1–3 and Appendices 1-2).
 
 ---
 
 ## 4. SQL Scripts (Click [`./sql`](HP-Database-Design-Assessment3/sql) to see SQL scripts)
 
-Three MySQL scripts, consolidated into 2 version ([docx](HP-Database-Design-Assessment3/docs/SQL-Scripts.docx) and [sql](HP-Database-Design-Assessment3/sql/hp_sql_scripts.sql)):
+Three MySQL scripts, consolidated into 2 version ([`docx`](HP-Database-Design-Assessment3/docs/SQL-Scripts.docx) and [`sql`](HP-Database-Design-Assessment3/sql/hp_sql_scripts.sql)):
 
 | # | Script | Technique | What it does |
 |---|---|---|---|
@@ -82,7 +82,7 @@ Business rationale, line-by-line explanations, and tested output tables for each
 
 ## 5. Data Analytics with Orange (Click [`./data-analytics`](HP-Database-Design-Assessment3/data-analytics) to see the analytics)
 
-Uses [Orange Data Mining](https://orangedatamining.com/) (open `*.ows` with Orange3) on the `HPCustomers.xlsx` dataset (1000 customers; see [HPDataset-header-description.txt](HP-Database-Design-Assessment3/data-analytics/HPDataset-header-description.txt) for the data dictionary — Age, Married, Annual Income, Subscription, Satisfaction, Frequency, and target variable **Spending Score**) (contact me for dataset).
+Uses [`Orange Data Mining`](https://orangedatamining.com/) (open `*.ows` with Orange3) on the `HPCustomers.xlsx` dataset (1000 customers; see [`HPDataset-header-description.txt`](HP-Database-Design-Assessment3/data-analytics/HPDataset-header-description.txt) for the data dictionary — Age, Married, Annual Income, Subscription, Satisfaction, Frequency, and target variable **Spending Score**) (contact me for dataset).
 
 **Workflow:**
 
