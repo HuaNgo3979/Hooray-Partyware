@@ -1,6 +1,6 @@
 # HP (Hooray Partyware) — Database Design & Development, Assessment 3
 
-Individual assignment for the **Database Design and Development** course, covering conceptual/relational database design, applied SQL programming, and predictive data analytics for a fictional partyware retailer, **Hooray Partyware (HP)**, run by business owner *Wendy*.
+Database Design and Development coursework project building a data system for **Hooray Partyware (HP)**, a partyware retailer run by business owner *Wendy*: an ERD and normalised (3NF) relational model, MySQL scripts (automatic customer membership tiering, an invoice-total trigger, and a sales performance report), and a predictive model of customer Spending Score using Orange Data Mining, comparing Linear Regression, Random Forest, and k-NN.
 
 **Author:** Ngo Hua Quoc Thinh (s3863887)
 
