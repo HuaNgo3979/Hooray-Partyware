@@ -99,12 +99,18 @@ Uses [`Orange Data Mining`](https://orangedatamining.com/) (open `*.ows` with Or
    **Recommendation:** Random Forest most accurately predicts customer spending, enabling HP to target high-value customer segments and tailor promotions using Satisfaction and Annual Income as key drivers.
 
 ---
+## 6. Video (Click [`./media`](HP-Database-Design-Assessment3/media) to see video)
 
-## 6. How to Use This Repo
+The [`video`](HP-Database-Design-Assessment3/media/) covers two discussion questions from the assignment:
+
+- **Database Administration:** two potential impacts on HP if its data is not properly protected, each paired with a recommended DBMS security feature to mitigate it.
+- **Big Data & Analytics:** two big data/analytics applications HP could adopt, and the business benefits each would deliver.
+
+## 7. How to Use This Repo
 
 - **Read the full write-up:** open [`docs/`](HP-Database-Design-Assessment3/docs) or the [`pdf`](HP-Database-Design-Assessment3/docs/ASM3-Database-IndividualAssignment-NgoHuaQuocThinh-s3863887.pdf) for the complete report with figures, tables, and references.
 - **View the ERD/RMD:** open [`ASM 3 - ERD & Relation.drawio`](HP-Database-Design-Assessment3/database-design/) in draw.io.
 - **Run the SQL:** load [`hp_sql_scripts.sql`](HP-Database-Design-Assessment3/sql/hp_sql_scripts.sql) into a MySQL client against a database that implements the `Customer`, `Invoice`, `InvoiceDetail`, and `Product` schema described above, or read through it for docx file [`SQL-Script`](HP-Database-Design-Assessment3/docs/SQL-Scripts.docx).
 - **Reproduce the analytics:** install [`Orange3`](https://orangedatamining.com/download/), open the `.ows` file in [`database-design`](HP-Database-Design-Assessment3/database-design), and run the workflow against `HPCustomers.xlsx`.
-- **Watch the demo:** `media/*.mp4` walks through the assignment end-to-end.
+- **Watch the demo:** `media/*.mp4` walks through the Database Administration security impacts + Big Data & Analytics applications for HP.
 
