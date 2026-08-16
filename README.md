@@ -102,8 +102,8 @@ Uses [Orange Data Mining](https://orangedatamining.com/) (open `*.ows` with Oran
 
 ## 6. How to Use This Repo
 
-- **Read the full write-up:** open [`docs/`](HP-Database-Design-Assessment3/docs) or the [pdf](HP-Database-Design-Assessment3/docs/ASM3-Database-IndividualAssignment-NgoHuaQuocThinh-s3863887.pdf) for the complete report with figures, tables, and references.
-- **View the ERD/RMD:** open [database-design/ASM 3 - ERD & Relation.drawio](HP-Database-Design-Assessment3/database-design/) in draw.io.
+- **Read the full write-up:** open [`docs/`](HP-Database-Design-Assessment3/docs) or the [`pdf`](HP-Database-Design-Assessment3/docs/ASM3-Database-IndividualAssignment-NgoHuaQuocThinh-s3863887.pdf) for the complete report with figures, tables, and references.
+- **View the ERD/RMD:** open [`ASM 3 - ERD & Relation.drawio`](HP-Database-Design-Assessment3/database-design/) in draw.io.
 - **Run the SQL:** load `sql/hp_sql_scripts.sql` into a MySQL client against a database that implements the `Customer`, `Invoice`, `InvoiceDetail`, and `Product` schema described above.
 - **Reproduce the analytics:** install [Orange3](https://orangedatamining.com/download/), open the `.ows` file in `data-analytics/`, and run the workflow against `HPCustomers.xlsx`.
 - **Watch the demo:** `media/*.mp4` walks through the assignment end-to-end.
