@@ -112,5 +112,5 @@ The [`video`](HP-Database-Design-Assessment3/media/) covers two discussion quest
 - **View the ERD/RMD:** open [`ASM 3 - ERD & Relation.drawio`](HP-Database-Design-Assessment3/database-design/) in draw.io.
 - **Run the SQL:** load [`hp_sql_scripts.sql`](HP-Database-Design-Assessment3/sql/hp_sql_scripts.sql) into a MySQL client against a database that implements the `Customer`, `Invoice`, `InvoiceDetail`, and `Product` schema described above, or read through it for docx file [`SQL-Script`](HP-Database-Design-Assessment3/docs/SQL-Scripts.docx).
 - **Reproduce the analytics:** install [`Orange3`](https://orangedatamining.com/download/), open the `.ows` file in [`database-design`](HP-Database-Design-Assessment3/database-design), and run the workflow against `HPCustomers.xlsx`.
-- **Watch the demo:** [video](HP-Database-Design-Assessment3/media/video.md) walks through the Database Administration security impacts + Big Data & Analytics applications for HP.
+- **Watch the demo:** [`video`](HP-Database-Design-Assessment3/media/video.md) walks through the Database Administration security impacts + Big Data & Analytics applications for HP.
 
