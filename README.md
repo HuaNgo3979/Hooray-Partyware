@@ -2,7 +2,7 @@
 
 Database Design and Development coursework project building a data system for **Hooray Partyware (HP)**, a partyware retailer run by business owner *Wendy*: an ERD and normalised (3NF) relational model, MySQL scripts (automatic customer membership tiering, an invoice-total trigger, and a sales performance report), and a predictive model of customer Spending Score using Orange Data Mining, comparing Linear Regression, Random Forest, and k-NN.
 
-**Author:** Ngo Hua Quoc Thinh (s3863887)
+**Author:** Hua Quoc Thinh, Ngo , Master of Business Information Technology.
 
 ---
 
