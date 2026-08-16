@@ -66,7 +66,7 @@ The Relational Model Diagram (RMD) normalises this design to **Third Normal Form
 
 ---
 
-## 4. SQL Scripts
+## 4. SQL Scripts (Click [./sql](HP-Database-Design-Assessment3/sql) to see SQL scripts)
 
 Three MySQL scripts, consolidated into 2 version ([docx](HP-Database-Design-Assessment3/docs/SQL-Scripts.docx) and [sql](HP-Database-Design-Assessment3/sql/hp_sql_scripts.sql)):
 
