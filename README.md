@@ -43,7 +43,7 @@ HP-Database-Design-Assessment3/
 
 ---
 
-## 3. Data Modelling (`database-design/`)
+## 3. Data Modelling (Click [./database-design](HP-Database-Design-Assessment3/database-design) to see data model)
 
 The ERD/RMD (open with [draw.io](https://www.drawio.com/) or the [draw.io VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)) models HP's core business entities:
 
