@@ -82,7 +82,7 @@ Business rationale, line-by-line explanations, and tested output tables for each
 
 ## 5. Data Analytics with Orange (`data-analytics/`)
 
-Uses [Orange Data Mining](https://orangedatamining.com/) (open `*.ows` with Orange3) on the `HPCustomers.xlsx` dataset (1000 customers; see [HPDataset-header-description.txt](HP-Database-Design-Assessment3/data-analytics/HPDataset-header-description.txt) for the data dictionary — Age, Married, Annual Income, Subscription, Satisfaction, Frequency, and target variable **Spending Score**) (contact me for dataset and data dictionary).
+Uses [Orange Data Mining](https://orangedatamining.com/) (open `*.ows` with Orange3) on the `HPCustomers.xlsx` dataset (1000 customers; see [HPDataset-header-description.txt](HP-Database-Design-Assessment3/data-analytics/HPDataset-header-description.txt) for the data dictionary — Age, Married, Annual Income, Subscription, Satisfaction, Frequency, and target variable **Spending Score**) (contact me for dataset).
 
 **Workflow:**
 
