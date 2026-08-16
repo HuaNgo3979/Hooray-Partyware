@@ -43,7 +43,7 @@ HP-Database-Design-Assessment3/
 
 ---
 
-## 3. Data Modelling (Click [./database-design](HP-Database-Design-Assessment3/database-design) to see data model)
+## 3. Data Modelling (Click [./database-design](HP-Database-Design-Assessment3/database-design) to see ERD/RMD)
 
 The ERD/RMD (open with [draw.io](https://www.drawio.com/) or the [draw.io VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)) models HP's core business entities:
 
@@ -58,9 +58,9 @@ The ERD/RMD (open with [draw.io](https://www.drawio.com/) or the [draw.io VS Cod
 
 Plus three **associative entities** resolving many-to-many relationships:
 
-- **InvoiceDetail** — line items per invoice (Product × Invoice)
-- **Inventory** — stock levels per store (Product × Store)
-- **Responsibility** — staff rostering (Employee × Store)
+- **InvoiceDetail:** line items per invoice (Product × Invoice).
+- **Inventory:** stock levels per store (Product × Store).
+- **Responsibility:** staff rostering (Employee × Store).
 
 The Relational Model Diagram (RMD) normalises this design to **Third Normal Form (3NF)**, with primary/foreign keys enforcing referential integrity across all tables. Full attribute lists, cardinalities, and business rules/assumptions are documented in `docs/ASM 3 - Database.docx` (Tables 1–3 and Appendices 1–2).
 
