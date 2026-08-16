@@ -14,7 +14,7 @@ HP wants to digitalise its operations across its stores. This assignment deliver
 2. **SQL Scripts:** three working MySQL scripts that automate customer segmentation, invoice totals, and sales performance reporting.
 3. **Data Analytics with Orange:** a predictive modelling workflow (Orange Data Mining) that pre-processes, explores, and predicts customer `Spending Score` from the HP customer dataset, comparing Linear Regression, Random Forest, and k-NN.
 
-Full written analysis, explanations, and screenshots are in the report (see [`docs/`](HP-Database-Design-Assessment3/docs) and [pdf](HP-Database-Design-Assessment3/docs/ASM3-Database-IndividualAssignment-NgoHuaQuocThinh-s3863887.pdf) version).
+Full written analysis, explanations, and screenshots are in the report (see [`docs/`](HP-Database-Design-Assessment3/docs) and [`pdf`](HP-Database-Design-Assessment3/docs/ASM3-Database-IndividualAssignment-NgoHuaQuocThinh-s3863887.pdf) version).
 
 ---
 
@@ -43,7 +43,7 @@ HP-Database-Design-Assessment3/
 
 ---
 
-## 3. Data Modelling (Click [./database-design](HP-Database-Design-Assessment3/database-design) to see ERD/RMD)
+## 3. Data Modelling (Click [`./database-design`](HP-Database-Design-Assessment3/database-design) to see ERD/RMD)
 
 The ERD/RMD (open with [draw.io](https://www.drawio.com/) or the [draw.io VS Code extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)) models HP's core business entities:
 
@@ -66,7 +66,7 @@ The Relational Model Diagram (RMD) normalises this design to **Third Normal Form
 
 ---
 
-## 4. SQL Scripts (Click [./sql](HP-Database-Design-Assessment3/sql) to see SQL scripts)
+## 4. SQL Scripts (Click [`./sql`](HP-Database-Design-Assessment3/sql) to see SQL scripts)
 
 Three MySQL scripts, consolidated into 2 version ([docx](HP-Database-Design-Assessment3/docs/SQL-Scripts.docx) and [sql](HP-Database-Design-Assessment3/sql/hp_sql_scripts.sql)):
 
@@ -80,7 +80,7 @@ Business rationale, line-by-line explanations, and tested output tables for each
 
 ---
 
-## 5. Data Analytics with Orange (Click [./data-analytics](HP-Database-Design-Assessment3/data-analytics) to see the analytics)
+## 5. Data Analytics with Orange (Click [`./data-analytics`](HP-Database-Design-Assessment3/data-analytics) to see the analytics)
 
 Uses [Orange Data Mining](https://orangedatamining.com/) (open `*.ows` with Orange3) on the `HPCustomers.xlsx` dataset (1000 customers; see [HPDataset-header-description.txt](HP-Database-Design-Assessment3/data-analytics/HPDataset-header-description.txt) for the data dictionary — Age, Married, Annual Income, Subscription, Satisfaction, Frequency, and target variable **Spending Score**) (contact me for dataset).
 
